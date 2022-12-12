@@ -1,0 +1,25 @@
+.ac{
+    color: blue;
+    background-color:gold;
+    text-align: center;
+    border-radius: 60px;
+    box-sizing: border-box;
+    box-shadow:4px 5px 3px 2px red;
+}
+
+.ab{
+    display: none;
+    margin-left:400px;
+    
+    
+        border-radius: 30px;
+}
+
+
+.cd{
+    display: none;
+}
+.de{
+    display: none;
+}
+        
